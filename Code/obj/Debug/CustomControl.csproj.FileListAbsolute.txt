@@ -1,0 +1,5 @@
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\bin\Debug\CustomControl.dll
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\bin\Debug\CustomControl.pdb
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\obj\Debug\CustomControl.dll.licenses
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\obj\Debug\CustomControl.dll
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\obj\Debug\CustomControl.pdb

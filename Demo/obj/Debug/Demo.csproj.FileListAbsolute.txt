@@ -1,0 +1,13 @@
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\bin\Debug\Demo.exe.config
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\bin\Debug\Demo.exe
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\bin\Debug\Demo.pdb
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\bin\Debug\CustomControl.dll
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\bin\Debug\CustomControl.pdb
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\obj\Debug\Demo.DemoForm.resources
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\obj\Debug\Demo.exe.licenses
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\obj\Debug\Demo.exe
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\obj\Debug\Demo.pdb
+C:\Development\Service Canada\Class Libraries\CustomControl\Demo\obj\Debug\Demo.XtraForm1.resources

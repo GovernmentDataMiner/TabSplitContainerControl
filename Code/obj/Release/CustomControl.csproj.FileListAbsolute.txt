@@ -1,0 +1,6 @@
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\bin\Release\CustomControl.dll
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\bin\Release\CustomControl.pdb
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\obj\Release\CustomControl.csprojResolveAssemblyReference.cache
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\obj\Release\CustomControl.dll.licenses
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\obj\Release\CustomControl.dll
+C:\Development\Service Canada\Class Libraries\CustomControl\Code\obj\Release\CustomControl.pdb
